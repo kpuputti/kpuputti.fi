@@ -9,7 +9,7 @@
         "url": "git@github.com:kpuputti/kpuputti.fi.git"
     },
     "dependencies": {},
-    "licence": "MIT"
+    "licence": "MIT",
     "private": true,
     "engines": {
         "node": "*"
