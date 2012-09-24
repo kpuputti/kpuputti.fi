@@ -1,0 +1,17 @@
+{
+    "name": "kpuputti-fi",
+    "homepage": "https://github.com/kpuputti/kpuputti.fi",
+    "version": "0.1.0",
+    "author": "Kimmo Puputti <kpuputti@gmail.com>",
+    "description": "Kimmo's website.",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:kpuputti/kpuputti.fi.git"
+    },
+    "dependencies": {},
+    "licence": "MIT"
+    "private": true,
+    "engines": {
+        "node": "*"
+    }
+}
