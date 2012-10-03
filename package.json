@@ -8,10 +8,13 @@
         "type": "git",
         "url": "git@github.com:kpuputti/kpuputti.fi.git"
     },
-    "dependencies": {},
+    "dependencies": {
+        "express": "3.0.x"
+    },
     "licence": "MIT",
     "private": true,
     "engines": {
-        "node": "*"
+        "node": "0.8.x",
+        "npm": "1.1.x"
     }
 }
