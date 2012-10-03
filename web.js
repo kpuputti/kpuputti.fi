@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 
 app.get('/', function (request, response) {
-    response.send('hello, world: ' + Date.now());
+    response.sendfile('public/index.html');
 });
 
 var port = process.env.PORT || 5000;
